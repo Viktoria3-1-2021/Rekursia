@@ -1,0 +1,25 @@
+﻿  Rekkrivkoha.cpp
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(13,32): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(14,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(14,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(20,32): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(21,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(21,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(28,35): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(28,46): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(29,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(29,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(36,35): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(36,46): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(37,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(37,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(44,35): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(44,46): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(45,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(45,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(52,35): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(52,46): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(53,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(53,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekkrivkoha\Rekkrivkoha\Rekkrivkoha.cpp(121,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Rekkrivkoha.vcxproj -> C:\Users\vika-\source\repos\Rekkrivkoha\Debug\Rekkrivkoha.exe

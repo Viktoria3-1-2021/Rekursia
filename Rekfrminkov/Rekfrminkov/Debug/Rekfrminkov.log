@@ -1,0 +1,15 @@
+﻿  Rekfrminkov.cpp
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(13,31): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(14,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(14,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(19,31): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(20,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(20,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(25,31): warning C4305: +=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(26,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(26,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(31,31): warning C4305: -=: усечение из "double" в "float"
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(32,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(32,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\vika-\source\repos\Rekfrminkov\Rekfrminkov\Rekfrminkov.cpp(130,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Rekfrminkov.vcxproj -> C:\Users\vika-\source\repos\Rekfrminkov\Debug\Rekfrminkov.exe
